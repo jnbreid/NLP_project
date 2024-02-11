@@ -1,5 +1,5 @@
 
-This directory contains notebooks containing the code we wrote.
+This directory contains notebooks and a .py file containing the code we wrote.
 
 To execute the code with the data add a directory 'asc' with the data from https://github.com/akkarimi/BERT-For-ABSA/tree/master/asc on the level of the notebooks (level of this readme).
 
@@ -27,6 +27,10 @@ Using logistic regression together with TFIDF to classify sentiments (SVM can al
 
 ## RoBERTa.ipynb
 Training and testing of a RoBERTa model with the given datasets.
+
+
+## dataset_util.py
+This file contains utility functions for working with the dataset (e.g. preprocessing, augmentation).
 
 
 ## datasets
