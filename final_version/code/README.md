@@ -34,4 +34,4 @@ Training and testing of a RoBERTa model with the given datasets.
 
 ## datasets
 This directory only contains the dataset and is only included for convenient execution of the notebooks as the files are small.
-This directory does *not* contain any of our work.
+This directory does **not** contain any of our work.
