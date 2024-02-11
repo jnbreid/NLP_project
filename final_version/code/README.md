@@ -33,5 +33,4 @@ Training and testing of a RoBERTa model with the given datasets.
 
 
 ## datasets
-This directory only contains the augmented dataset and is only included for convenient execution of the notebooks as the files are small.
-
+This directory only contains the precomputed augmented dataset files.
