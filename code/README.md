@@ -1,7 +1,6 @@
 
 ## TODO
 - test if notebooks can all be executed correctly
-- get results for BERT
 
 
 -------------------------------------------------------------------------------------
