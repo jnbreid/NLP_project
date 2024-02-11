@@ -1,10 +1,7 @@
 
-## TODO
-- test if notebooks can all be executed correctly
-
-
--------------------------------------------------------------------------------------
 This directory contains notebooks containing the code we wrote.
+
+To execute the code with the data add a directory 'asc' with the data from https://github.com/akkarimi/BERT-For-ABSA/tree/master/asc on the level of the notebooks (level of this readme).
 
 Each notebook contains the code needed to train and test one specific model. This includes data loading, preprocessing, model definitions, training/evaluation loops, ... .
 Only the notebook 'optimizing_DeBERTa' contains the code to run the optimizer optuna for DeBERTa for two hyperparameters.
